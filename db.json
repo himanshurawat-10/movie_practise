@@ -1,6 +1,81 @@
 {
   "movies": [
+    {
+      "id": "1",
+      "title": "RRR",
+      "posterPath": "https://www.koimoi.com/wp-content/new-galleries/2021/12/ram-charan-gives-rrr-trailer-launch-a-miss-001.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Kimi No Nawa",
+      "posterPath": "https://blog.onehallyu.com/wp-content/uploads/2017/02/Kimi-no-Na-wa.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Breaking Bad",
+      "posterPath": "https://ntvb.tmsimg.com/assets/p8696131_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "id": "4",
+      "title": "JuJustu Kaisen",
+      "posterPath": "https://sm.ign.com/ign_in/blogroll/default/jujutsu-kaisen-0-1643109723712_3mtg.jpg"
+    },
+    {
+      "id": "5",
+      "title": "14 Peaks",
+      "posterPath": "https://images.prismic.io/nimsdai/b6d80c6c-5a3e-4966-a913-dcbd6c3b900f_EN-US_Main_01_16X9_RGB_POST.jpg?auto=compress,format&rect=0,93,2500,1313&w=1200&h=630"
+    },
+    {
+      "id": "6",
+      "title": "Demon Slayer",
+      "posterPath": "https://cdn.oneesports.gg/cdn-data/2022/12/Anime_DemonSlayer_SwordsmithVillageArc.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Drive to Survive",
+      "posterPath": "https://image.tmdb.org/t/p/original//bTvsFzYK4ZdbcAIPSEJ3i8uLHSh.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Drishyam",
+      "posterPath": "https://m.media-amazon.com/images/M/MV5BYmJhZmJlYTItZmZlNy00MGY0LTg0ZGMtNWFkYWU5NTA1YTNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Mother India",
+      "posterPath": "https://images.squarespace-cdn.com/content/v1/5a608e4e017db2e8dedb242b/1614669609587-MDXX2ZPORN0E2L315B8Z/IMG_1357.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Avengers",
+      "posterPath": "https://i.etsystatic.com/13367669/r/il/8adffe/1506815473/il_570xN.1506815473_lb94.jpg"
+    }
   ],
   "favourites": [
+    {
+      "id": "5",
+      "title": "14 Peaks",
+      "posterPath": "https://images.prismic.io/nimsdai/b6d80c6c-5a3e-4966-a913-dcbd6c3b900f_EN-US_Main_01_16X9_RGB_POST.jpg?auto=compress,format&rect=0,93,2500,1313&w=1200&h=630"
+    },
+    {
+      "id": "4",
+      "title": "JuJustu Kaisen",
+      "posterPath": "https://sm.ign.com/ign_in/blogroll/default/jujutsu-kaisen-0-1643109723712_3mtg.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Drive to Survive",
+      "posterPath": "https://image.tmdb.org/t/p/original//bTvsFzYK4ZdbcAIPSEJ3i8uLHSh.jpg"
+    },
+    {
+      "id": "1",
+      "title": "RRR",
+      "posterPath": "https://www.koimoi.com/wp-content/new-galleries/2021/12/ram-charan-gives-rrr-trailer-launch-a-miss-001.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Demon Slayer",
+      "posterPath": "https://cdn.oneesports.gg/cdn-data/2022/12/Anime_DemonSlayer_SwordsmithVillageArc.jpg"
+    }
   ]
 }
